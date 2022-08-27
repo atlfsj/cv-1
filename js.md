@@ -40,6 +40,13 @@ parcel build src/index.html --no-minify --public-url .
 <br>
 一般不提交 .cache文件，放到.gitignore中（最前面加个/表示是最外面的目录）
 
+<br>
+当github page不出现预览地址时，多刷新几次或退出重进；打开是404后面要加路径（dist/xxx）
+
+<br>
+尽量吧css写外边
+
+
 
 
 
