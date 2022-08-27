@@ -30,7 +30,8 @@ string = string.replace(/\n/g, "<br>");     //使用正则表达式（/ /g）将
 镜像渐变：内外
 
 <br>
-dist中的文件是可以直接发布的，scr不可以 <br>
+dist中的文件是可以直接发布的，scr不可以 
+<br>
 部署到github之前先安装parcel的旧版本
 
 ```
@@ -46,15 +47,5 @@ parcel build src/index.html --no-minify --public-url .
 
 <br>
 尽量吧css写外边
-
-
-
-
-
-
-
-
-
-
 
 
